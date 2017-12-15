@@ -1,0 +1,14 @@
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\bin\Debug\TalkToTU.exe.config
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\bin\Debug\TalkToTU.exe
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\bin\Debug\TalkToTU.pdb
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\bin\Debug\TalkToTU.xml
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\obj\Debug\TalkToTU.vbprojResolveAssemblyReference.cache
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\obj\Debug\TalkToTU.Form1.resources
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\obj\Debug\TalkToTU.Resources.resources
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\obj\Debug\TalkToTU.vbproj.GenerateResource.Cache
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\obj\Debug\TalkToTU.vbproj.CoreCompileInputs.cache
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\obj\Debug\TalkToTU.exe
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\obj\Debug\TalkToTU.xml
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\obj\Debug\TalkToTU.pdb
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\obj\Debug\TalkToTU.Chat.resources
+C:\Users\Kharwtom\source\repos\TalkToTU\TalkToTU\obj\Debug\TalkToTU.Mainchat.resources
